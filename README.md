@@ -1,5 +1,5 @@
 # gradrates
-"College Education, Income Inequality, and Market Power," By Oz Shy
+"College Education, Earning Inequality, and Market Power," By Oz Shy
 
 Available at: https://papers.ssrn.com/abstract=3718775 
 
