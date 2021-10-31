@@ -3,8 +3,6 @@
 
 Forthcoming, Journal of Labor Research: http://dx.doi.org/10.1007/s12122-021-09324-9 
 
-Also, available at: https://papers.ssrn.com/abstract=3718775 
-
 Here you can download the R code and data files for this paper. 
 
 1) Download all files into a single directory (folder) on your computer. 
